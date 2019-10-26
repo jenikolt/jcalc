@@ -27,5 +27,6 @@ body {
 }
 
 .jcalc-screen, .jcalc-str {
+    height: 50px;
     text-align: right;
 }
